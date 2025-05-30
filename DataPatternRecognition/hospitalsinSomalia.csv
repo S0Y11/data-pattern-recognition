@@ -1,0 +1,879 @@
+Country,city,name,Facility,Ownership,Lat,Long
+Somalia,Awdal,Aasha Caddo Health Post,Health Post,MoHL,11.1744,43.4392
+Somalia,Awdal,Ali Xaydh Health Post,Health Post,MoHL,10.4488,43.2521
+Somalia,Awdal,Ara-Weine Health Post,Health Post,MoHL,10.2844,43.4194
+Somalia,Awdal,Baki Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.0099,43.3653
+Somalia,Awdal,Boon Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.1851,43.0841
+Somalia,Awdal,Borama Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.9387,43.1839
+Somalia,Awdal,Borama Regional Hospital,Regional Hospital,MoHL,10.292,43.69
+Somalia,Awdal,Borama Save Our Souls (SOS) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.2957,43.0509
+Somalia,Awdal,Cabdil Qaaddir Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.5118,42.8913
+Somalia,Awdal,Cadaad Health Post,Health Post,MoHL,10.0777,43.2665
+Somalia,Awdal,Cali-Haidh Health Post,Health Post,,9.1155,45.395
+Somalia,Awdal,Central Borama Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.929,43.1833
+Somalia,Awdal,Dila Maternal & Child Health Centre,Maternal & Child Health Centre,,9.78,43.35
+Somalia,Awdal,Dilla Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.7794,43.3445
+Somalia,Awdal,Fadhi-Xun Health Post,Health Post,MoHL,10.2925,43.2947
+Somalia,Awdal,Farda-Lagu Xidh Health Post,Health Post,MoHL,10.4092,43.4497
+Somalia,Awdal,Fiqi Adan Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.3696,43.1922
+Somalia,Awdal,Garbodadar Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,10.2384,43.6269
+Somalia,Awdal,Gargaara Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.313,43.8059
+Somalia,Awdal,Gariso Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.62,43.46
+Somalia,Awdal,Goraya Cowl Health Post,Health Post,MoHL,9.8679,43.2269
+Somalia,Awdal,Gorgab Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.9289,43.1833
+Somalia,Awdal,Hariirad Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.3783,42.8726
+Somalia,Awdal,Hego Health Post,Health Post,MoHL,10.0774,43.2679
+Somalia,Awdal,Idhan Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.6926,43.3021
+Somalia,Awdal,Jarahorato Health Post,Health Post,MoHL,9.8439,43.3302
+Somalia,Awdal,Jidhi Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.5926,43.048
+Somalia,Awdal,Kalawle Health Post,Health Post,MoHL,10.5515,43.8527
+Somalia,Awdal,Karure Health Post,Health Post,MoHL,10.7506,43.5888
+Somalia,Awdal,Lowyo-Ado Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.3546,43.4728
+Somalia,Awdal,Lughayo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.6825,43.9432
+Somalia,Awdal,Magala-Qaloc Health Post,Health Post,MoHL,9.7321,43.2903
+Somalia,Awdal,Old Baki Health Post,Health Post,MoHL,9.9522,43.37
+Somalia,Awdal,Qoor-Gaab Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.1833,43.4
+Somalia,Awdal,Quli-Jeed Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8166,43.3116
+Somalia,Awdal,Ruqi Health Post,Health Post,MoHL,9.9703,43.4283
+Somalia,Awdal,Sabowanaag Health Post,Health Post,MoHL,10.5296,44.1314
+Somalia,Awdal,Sheed Dheer Health Post,Health Post,MoHL,10.3018,43.5234
+Somalia,Awdal,Sheikh Ali Jawhar Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.9465,43.1868
+Somalia,Awdal,Sheikh Cisman Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.929,43.1833
+Somalia,Awdal,Tokhoshi Health Post,Health Post,MoHL,11.3445,43.4106
+Somalia,Awdal,Tulli Health Post,Health Post,MoHL,9.8166,43.3116
+Somalia,Awdal,Waalago Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8514,43.2776
+Somalia,Awdal,Walaalgo Health Post,Health Post,MoHL,9.8693,43.2627
+Somalia,Awdal,Waraqadhigta Health Post,Health Post,MoHL,10.1834,43.6207
+Somalia,Awdal,Weraar Health Post,Health Post,MoHL,9.7361,43.1775
+Somalia,Awdal,Xamarta Health Post,Health Post,MoHL,10.06,43.36
+Somalia,Awdal,Xoorrey Health Post,Health Post,,10.1801,43.3678
+Somalia,Awdal,Zeylac Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,11.3546,43.4728
+Somalia,Bakool,Abal Health Post,Health Post,NGO,3.9939,43.9417
+Somalia,Bakool,Abaq Beeday Health Post,Health Post,NGO,4.1211,44.0366
+Somalia,Bakool,Abaq Dhere Health Post,Health Post,NGO,3.9863,44.3614
+Somalia,Bakool,Abeesale Health Post,Health Post,NGO,4.9053,44.5206
+Somalia,Bakool,Aleemow Health Post,Health Post,NGO,3.9782,43.2676
+Somalia,Bakool,Arshamo Health Post,Health Post,NGO,4.0538,43.3556
+Somalia,Bakool,Ato Health Post,Health Post,NGO,4.6207,43.3498
+Somalia,Bakool,Baadikeen Health Post,Health Post,,4.7894,44.6033
+Somalia,Bakool,Bakaar Yare Health Post,Health Post,NGO,3.6466,43.4677
+Somalia,Bakool,Bana Health Post,Health Post,NGO,4.0013,43.941
+Somalia,Bakool,Banjaneey Health Post,Health Post,NGO,4.2349,43.9295
+Somalia,Bakool,Ban-Soofe Health Post,Health Post,NGO,4.0537,43.1016
+Somalia,Bakool,Biyoley Health Post,Health Post,MoHL,3.9359,44.4214
+Somalia,Bakool,Boodaan Health Post,Health Post,NGO,4.144,43.2497
+Somalia,Bakool,Burdho Health Post,Health Post,NGO,4.1735,44.6972
+Somalia,Bakool,Buulo Eyle Health Post,Health Post,NGO,3.6761,43.3988
+Somalia,Bakool,Buulo Jadiid1 Health Post,Health Post,NGO,3.8726,44.3354
+Somalia,Bakool,Buur Basle Health Post,Health Post,NGO,4.0661,43.1377
+Somalia,Bakool,Buur Dhuxunle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0552,43.2471
+Somalia,Bakool,Buur-Cadey Health Post,Health Post,NGO,4.0775,43.3465
+Somalia,Bakool,Ceel Barde Health Post,Health Post,NGO,4.8231,43.6679
+Somalia,Bakool,Ceel Barde Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.8282,43.6599
+Somalia,Bakool,Ceel Gudo Health Post,Health Post,NGO,4.1083,44.3561
+Somalia,Bakool,Ceel-Jeedow Health Post,Health Post,NGO,3.9639,43.1912
+Somalia,Bakool,Dhanawe Health Post,Health Post,NGO,3.9708,44.6414
+Somalia,Bakool,Dheemo / Bulo Dhowdhow Health Post,Health Post,NGO,3.8155,44.5186
+Somalia,Bakool,Dhurey Health Post,Health Post,NGO,3.6548,43.3299
+Somalia,Bakool,Dhuurey Health Post,Health Post,NGO,4.2621,42.9185
+Somalia,Bakool,Doonful Health Post,Health Post,NGO,4.1837,43.9948
+Somalia,Bakool,Doygaab Health Post,Health Post,NGO,3.9837,44.1367
+Somalia,Bakool,Dudumble Health Post,Health Post,NGO,4.1312,44.0877
+Somalia,Bakool,Eedkiyaal Health Post,Health Post,NGO,4.0033,44.0157
+Somalia,Bakool,El Garas Health Post,Health Post,NGO,4.1514,44.2133
+Somalia,Bakool,El Haawey Health Post,Health Post,NGO,4.0275,44.4435
+Somalia,Bakool,El-Magad Health Post,Health Post,NGO,4.9189,44.3959
+Somalia,Bakool,Garas Maamow Health Post,Health Post,NGO,3.7247,43.2653
+Somalia,Bakool,Garas Weyne Health Post,Health Post,NGO,4.2544,43.4941
+Somalia,Bakool,Garsaaley Health Post,Health Post,NGO,3.9964,43.2312
+Somalia,Bakool,Gomor Sangar Health Post,Health Post,NGO,4.0344,43.1382
+Somalia,Bakool,Goobato Health Post,Health Post,NGO,4.0237,43.1648
+Somalia,Bakool,Hubudhi Health Post,Health Post,NGO,3.8628,44.5114
+Somalia,Bakool,Hudur Imc Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1162,43.891
+Somalia,Bakool,Hugey Health Post,Health Post,NGO,3.8732,44.479
+Somalia,Bakool,Imilow Health Post,Health Post,NGO,4.2728,43.2206
+Somalia,Bakool,Korkoor Health Post,Health Post,NGO,3.6412,43.5866
+Somalia,Bakool,Korkor Health Post,Health Post,NGO,3.9589,44.0891
+Somalia,Bakool,Kulunjerer Health Post,Health Post,NGO,3.903,43.5869
+Somalia,Bakool,Madaa Health Post,Health Post,NGO,3.9552,44.7238
+Somalia,Bakool,Mad-Foodey Health Post,Health Post,NGO,3.8136,43.3099
+Somalia,Bakool,Misir Health Post,Health Post,NGO,3.9782,44.597
+Somalia,Bakool,Moro Gabey Health Post,Health Post,NGO,4.1898,43.6435
+Somalia,Bakool,Oorar Health Post,Health Post,NGO,3.8828,44.3458
+Somalia,Bakool,Oor-Gaafin Health Post,Health Post,NGO,3.8945,43.431
+Somalia,Bakool,Qurac-Joome Health Post,Health Post,NGO,4.9447,44.302
+Somalia,Bakool,Quracle Health Post,Health Post,NGO,4.3159,43.0715
+Somalia,Bakool,Rabdhure Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.3472,43.1549
+Somalia,Bakool,Sarmaan Health Post,Health Post,NGO,3.9565,44.0043
+Somalia,Bakool,Shiimi Health Post,Health Post,NGO,4.0594,44.5388
+Somalia,Bakool,Tiyeglow Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0182,44.5128
+Somalia,Bakool,Towsiiley Hadame Health Post,Health Post,NGO,4.0161,43.356
+Somalia,Bakool,Waab Giraad Health Post,Health Post,NGO,4.1157,43.2605
+Somalia,Bakool,Waajid Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8093,43.2471
+Somalia,Bakool,War Gubey Health Post,Health Post,NGO,4.1003,43.1017
+Somalia,Bakool,War Kulunle Health Post,Health Post,NGO,4.1004,44.4442
+Somalia,Bakool,Wararey Health Post,Health Post,NGO,4.0266,44.5819
+Somalia,Bakool,Wjd WVI Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8093,43.2471
+Somalia,Bakool,Xudur MSF-Belgium Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1291,43.887
+Somalia,Bakool,Yeed Health Post,Health Post,NGO,4.5372,43.0276
+Somalia,Bakool,Yet Health Post,Health Post,NGO,4.5524,43.0446
+Somalia,Banadir,Adan Ade Hospital,Hospital,,2.0211,45.2987
+Somalia,Banadir,Al-Cimraan Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Al-Hilaal Hospital,Hospital,,0,0
+Somalia,Banadir,Al-Imran Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Banadir Hospital,Hospital,MoHL,2.0365,45.2989
+Somalia,Banadir,Banadir ICRC/WFP Hospital,Hospital,NGO,2.0365,45.3039
+Somalia,Banadir,Banadir KDI Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Banadir OPD/ACF Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Banadir SOS Hospital,Hospital,NGO,2.0903,45.3688
+Somalia,Banadir,Banadir TFC(Acf) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Banadir,Banadir Therapeutic Feeding Centre Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0415,45.3337
+Somalia,Banadir,Beeraha Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Banadir,Bexani Voluntary Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Bondere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0466,45.3422
+Somalia,Banadir,Canada Polyclinic Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Ceelasha Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0427,45.334
+Somalia,Banadir,Daynile Hospital,Hospital,MoHL,2.0414,45.3337
+Somalia,Banadir,Daynile Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,2.0414,45.3337
+Somalia,Banadir,Dharkinley MSF-Spain Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Banadir,Dharkinley Teada OPD Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Banadir,Dr. Xasan Jis Memory Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Hamar Jab Jab Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,2.0414,45.3337
+Somalia,Banadir,Hamarweyne Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,2.0414,45.3337
+Somalia,Banadir,Hanano 2 Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Hanano Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Hayat Medical Group Hospital,Hospital,NGO,2.0414,45.3337
+Somalia,Banadir,Kahda 2 Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Banadir,Karan ICRS/SPCS Hospital,Hospital,NGO,2.0538,45.387
+Somalia,Banadir,Karan Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Ladan Public Health Clinic Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Banadir,Lazaretto Forlanini Hospital,Hospital,,2.0459,45.3578
+Somalia,Banadir,Macad Binu Jabal Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Banadir,Madina Hospital,Hospital,NGO,2.0414,45.3337
+Somalia,Banadir,Madino Maternal & Child Health Centre,Maternal & Child Health Centre,,2.0414,45.3337
+Somalia,Banadir,Martino Hospital,Hospital,,2.0306,45.3399
+Somalia,Banadir,Mogadishu Voluntary Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Muslim Aid-Medina Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Peace Hospital,Hospital,,0,0
+Somalia,Banadir,Ramadan Clinic Centre Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Shibis Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Shifa Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Shifo Voluntary Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Sifa Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Social Security Hospital,Hospital,,2.04,45.3427
+Somalia,Banadir,Sorrdo Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,0,0
+Somalia,Banadir,SWISSO Kalmo Madina Health Post,Health Post,NGO,-0.0101,42.6516
+Somalia,Banadir,Waberi Hospital,Hospital,MoHL,8.4009,48.4909
+Somalia,Banadir,Waberi Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,2.0414,45.3337
+Somalia,Banadir,Wadajir Hospital,Hospital,,2.0163,45.2982
+Somalia,Banadir,Wadajir Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,2.0163,45.2982
+Somalia,Banadir,Xabeeb Voluntary Hospital,Hospital,,2.0414,45.3337
+Somalia,Banadir,Yaqshid Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Banadir,Zam-Zam Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0414,45.3337
+Somalia,Bari,Adisona Health Post,Health Post,MoHL/NGO,9.5307,49.2297
+Somalia,Bari,Alula District Hospital,Hospital,MoHL,11.962,50.7573
+Somalia,Bari,Alula Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.9599,50.7575
+Somalia,Bari,Ambar Sare Health Post,Health Post,MoHL/NGO,9.6744,49.4878
+Somalia,Bari,Aris Health Post,Health Post,NGO,9.5829,50.7982
+Somalia,Bari,Balidhidin Health Post,Health Post,MoHL,10.8808,50.3928
+Somalia,Bari,Bandarbeyla Hospital,Hospital,NGO,9.492,50.8068
+Somalia,Bari,Bandarbeyla Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.4948,50.8122
+Somalia,Bari,Bareeda Health Post,Health Post,MoHL,11.5066,50.1557
+Somalia,Bari,Bargaal Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.2853,51.0773
+Somalia,Bari,Barmadobe Health Post,Health Post,NGO,10.0571,50.8841
+Somalia,Bari,Beldaje A/Lahi Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.2827,49.1973
+Somalia,Bari,Bixin Health Post,Health Post,MoHL,9.0889,50.4347
+Somalia,Bari,Bosaso Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.2131,49.2159
+Somalia,Bari,Bosaso Regional Hospital,Hospital,MoHL,11.28,49.18
+Somalia,Bari,Carmo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.5665,49.0609
+Somalia,Bari,Dardare Health Post,Health Post,NGO,9.4123,49.0578
+Somalia,Bari,Dhadaar Health Post,Health Post,MoHL,11.1247,49.8708
+Somalia,Bari,Dharinbar Health Post,Health Post,NGO,8.9353,50.4751
+Somalia,Bari,Dhudhub Health Post,Health Post,NGO,9.2297,49.917
+Somalia,Bari,Dhur Health Post,Health Post,NGO,9.2449,50.6054
+Somalia,Bari,Dhuudo Health Post,Health Post,,9.22,50.2
+Somalia,Bari,Dhuudo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.3252,50.2078
+Somalia,Bari,Dudhooyo Health Post,Health Post,MoHL/NGO,9.8772,49.9461
+Somalia,Bari,Durdura Health Post,Health Post,NGO,9.2449,50.6054
+Somalia,Bari,El-Dhidar Health Post,Health Post,NGO,9.2775,50.7072
+Somalia,Bari,Foar Health Post,Health Post,NGO,10.3132,50.897
+Somalia,Bari,Galgala Health Post,Health Post,MoHL,11.1941,49.0064
+Somalia,Bari,Garan Health Post,Health Post,NGO,10.1667,50.9
+Somalia,Bari,Gargoore Health Post,Health Post,MoHL/NGO,10.49,50.69
+Somalia,Bari,Geesaley Health Post,Health Post,MoHL,11.7463,50.5033
+Somalia,Bari,Guud'Ad Health Post,Health Post,MoHL/NGO,9.7502,49.1965
+Somalia,Bari,Habal Reer Health Post,Health Post,MoHL/NGO,9.8286,49.3682
+Somalia,Bari,Habeb Hospital,Hospital,,10.9843,49.2177
+Somalia,Bari,Hafun Health Post,Health Post,NGO,10.4212,51.2688
+Somalia,Bari,Hafun Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.4231,51.2609
+Somalia,Bari,Handha Health Post,Health Post,NGO,10.6504,51.1378
+Somalia,Bari,Hingood Health Post,Health Post,NGO,0,0
+Somalia,Bari,Humbais Health Post,Health Post,MoHL/NGO,9.6414,49.8913
+Somalia,Bari,Hurdie Health Post,Health Post,NGO,10.5631,51.1341
+Somalia,Bari,Iskushuban District Hospital,Hospital,MoHL,10.28,50.22
+Somalia,Bari,Iskushuban Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.28,50.22
+Somalia,Bari,Jeded Health Post,Health Post,MoHL/NGO,9.4046,49.588
+Somalia,Bari,Kalabayr Health Post,Health Post,MoHL,10.7606,49.203
+Somalia,Bari,Kob Dexaad Health Post,Health Post,MoHL,10.6561,49.4987
+Somalia,Bari,Kubo Health Post,Health Post,MoHL,9.502,49.0636
+Somalia,Bari,Kulaal Health Post,Health Post,MoHL,9.1595,50.6291
+Somalia,Bari,Kulule Health Post,Health Post,NGO,9.1483,50.6441
+Somalia,Bari,Laag Health Post,Health Post,MoHL,11.0368,49.1876
+Somalia,Bari,Laaso Dawaco Health Post,Health Post,MoHL,10.46,49.08
+Somalia,Bari,Libah-Har Health Post,Health Post,MoHL,9.4861,49.3994
+Somalia,Bari,Meladen Health Post,Health Post,MoHL/NGO,10.43,49.8
+Somalia,Bari,Meygag Health Post,Health Post,NGO,9.5184,49.9216
+Somalia,Bari,Qaararsoor Health Post,Health Post,NGO,9.6457,49.5718
+Somalia,Bari,Qalwo Health Post,Health Post,NGO,9.6361,49.5148
+Somalia,Bari,Qandala Hospital,Hospital,MoHL,11.4724,49.8714
+Somalia,Bari,Qandala Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.4724,49.8714
+Somalia,Bari,Qardho Hospital,Hospital,NGO,9.5,49.08
+Somalia,Bari,Qardho Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.5069,49.0861
+Somalia,Bari,Qoton Health Post,Health Post,MoHL/NGO,9.5955,50.4714
+Somalia,Bari,Rako Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.78,49.72
+Somalia,Bari,Sayn-Yar Health Post,Health Post,MoHL,11.7708,51.203
+Somalia,Bari,Sherbi Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8631,49.0908
+Somalia,Bari,Shimbiralle Health Post,Health Post,MoHL/NGO,10.1313,45.0225
+Somalia,Bari,Shire Health Post,Health Post,MoHL,9.0901,49.2129
+Somalia,Bari,Tasjiic Health Post,Health Post,MoHL,10.8624,49.4576
+Somalia,Bari,Timirshe Health Post,Health Post,MoHL/NGO,10.56,50.42
+Somalia,Bari,Towfiiq Hospital,Hospital,,10.9843,49.2177
+Somalia,Bari,Ufeyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.6508,49.755
+Somalia,Bari,Xaabo Health Post,Health Post,MoHL,11.7866,50.5296
+Somalia,Bari,Xiddo Health Post,Health Post,MoHL/NGO,9.9574,49.0537
+Somalia,Bari,Xiriiro Health Post,Health Post,MoHL/NGO,9.97,50.24
+Somalia,Bari,Xunbays Health Post,Health Post,MoHL/NGO,9.6414,49.8913
+Somalia,Bari,Yaka Health Post,Health Post,MoHL/NGO,9.22,49.12
+Somalia,Bari,Yalaho Health Post,Health Post,MoHL,10.9176,49.2525
+Somalia,Bay,Aawdiinle Health Post,Health Post,NGO,3.1706,43.4099
+Somalia,Bay,Abees Eemid Health Post,Health Post,NGO,3.1104,43.4653
+Somalia,Bay,Adado Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1172,43.6469
+Somalia,Bay,Aliyow-Geele Health Post,Health Post,NGO,2.7313,44.093
+Somalia,Bay,Arjeg/Dafaad Health Post,Health Post,NGO,2.6883,43.6506
+Somalia,Bay,Aw Mayow Health Post,Health Post,NGO,2.5004,44.103
+Somalia,Bay,Baido Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1106,43.6433
+Somalia,Bay,Baidoa Caritas OPD/ Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1263,43.6665
+Somalia,Bay,Baidoa DMO OPD/ Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1163,43.6498
+Somalia,Bay,Baidoa Hospital,Hospital,MoHL,3.1106,43.6433
+Somalia,Bay,Baidoa World Vision International Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1224,43.6575
+Somalia,Bay,Ban -Buraale Health Post,Health Post,NGO,2.808,44.1296
+Somalia,Bay,Barariya Health Post,Health Post,NGO,2.5706,44.1715
+Somalia,Bay,Bardaale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.2146,43.1981
+Somalia,Bay,Bardale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.2146,43.1981
+Somalia,Bay,Berdalle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.2144,43.198
+Somalia,Bay,Biyoley /Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.9587,44.2318
+Somalia,Bay,Bootis Health Post,Health Post,NGO,2.857,43.3941
+Somalia,Bay,Borame Health Post,Health Post,NGO,3.3173,43.1954
+Somalia,Bay,Bullo Bilan (Barow) Health Post,Health Post,NGO,3.5324,44.0396
+Somalia,Bay,Bulo Barako Health Post,Health Post,NGO,2.9913,43.4961
+Somalia,Bay,Burhakaba /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.8049,44.0821
+Somalia,Bay,Bur-Heybe Health Post,Health Post,NGO,2.9911,44.3062
+Somalia,Bay,Buulo Garas Health Post,Health Post,,2.6645,42.9787
+Somalia,Bay,Buur Hakaba Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.8049,44.0821
+Somalia,Bay,Caasha Gaabo Health Post,Health Post,NGO,3.2638,43.6135
+Somalia,Bay,Cadada /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1263,43.6665
+Somalia,Bay,Cadey Kuudka Health Post,Health Post,NGO,2.6668,43.9683
+Somalia,Bay,Caliyow-Muumin Health Post,Health Post,NGO,2.9853,43.5159
+Somalia,Bay,Cambuul Weyne Health Post,Health Post,NGO,2.703,44.138
+Somalia,Bay,Dagardhere Health Post,Health Post,NGO,2.525,44.0109
+Somalia,Bay,Dambal Health Post,Health Post,NGO,3.2344,43.6024
+Somalia,Bay,Daynuunay Health Post,Health Post,NGO,3.0399,43.7969
+Somalia,Bay,Dhanfarur/Shiidalow Health Post,Health Post,NGO,2.9381,44.0779
+Somalia,Bay,Dhuboy Health Post,Health Post,NGO,3.041,43.4509
+Somalia,Bay,Diinsoor District Hospital,Hospital,NGO,2.4073,42.9766
+Somalia,Bay,Diinsoor Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.4074,42.9766
+Somalia,Bay,Doora-Weri Health Post,Health Post,NGO,3.7171,43.8045
+Somalia,Bay,Dooygodobey Health Post,Health Post,NGO,3.0059,44.1212
+Somalia,Bay,Eedin Gaal Benle Health Post,Health Post,NGO,3.0127,43.4656
+Somalia,Bay,Faajar Busul Health Post,Health Post,NGO,3.5069,43.5711
+Somalia,Bay,Garasgod Health Post,Health Post,NGO,2.4404,43.5125
+Somalia,Bay,Gomorey Health Post,Health Post,NGO,3.0465,43.9741
+Somalia,Bay,Goof Health Post,Health Post,NGO,2.9785,44.191
+Somalia,Bay,Goorisine Health Post,Health Post,NGO,2.9452,43.4188
+Somalia,Bay,Green Hope Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,0,0
+Somalia,Bay,Gubud Sagaar Health Post,Health Post,NGO,3.5666,43.2802
+Somalia,Bay,Habare Health Post,Health Post,NGO,3.2179,43.8314
+Somalia,Bay,Hawl Wadag OPD/ Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1215,43.6467
+Somalia,Bay,Isha OPD/ (Srcs) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1969,43.586
+Somalia,Bay,Keerow Diiga Health Post,Health Post,NGO,2.8144,43.9111
+Somalia,Bay,Kerowmalaqdi Health Post,Health Post,NGO,3.2863,43.4773
+Somalia,Bay,Kurkurow Health Post,Health Post,NGO,2.8961,43.7353
+Somalia,Bay,Kurow Ay Dhuubay Health Post,Health Post,NGO,2.7661,44.1299
+Somalia,Bay,Kurto Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.5797,43.3552
+Somalia,Bay,Labaatan Jirow Health Post,Health Post,NGO,3.5385,43.7572
+Somalia,Bay,Labi Saab Health Post,Health Post,,2.7954,42.711
+Somalia,Bay,Lafaale Health Post,Health Post,NGO,3.2153,43.5711
+Somalia,Bay,Liimaale Health Post,Health Post,NGO,2.8887,44.0158
+Somalia,Bay,Lug-Habar Health Post,Health Post,NGO,2.918,43.9315
+Somalia,Bay,Manaas Health Post,Health Post,NGO,2.8936,43.4666
+Somalia,Bay,Midow Health Post,Health Post,NGO,3.1734,43.4667
+Somalia,Bay,Milleel Health Post,Health Post,NGO,3.436,43.588
+Somalia,Bay,Mintaan Health Post,Health Post,NGO,3.3311,43.5284
+Somalia,Bay,Mooda-Mooda Health Post,Health Post,NGO,3.007,43.8494
+Somalia,Bay,Peace Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Bay,Qahirayary Health Post,Health Post,NGO,3.2509,43.4458
+Somalia,Bay,Qansax Dheere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.8712,43.0043
+Somalia,Bay,Qasax Dhere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.8712,43.0043
+Somalia,Bay,Raydabow Health Post,Health Post,NGO,2.8556,44.1428
+Somalia,Bay,Salama Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Bay,Seydhelow Health Post,Health Post,NGO,3.3685,43.6726
+Somalia,Bay,Shabeelow Health Post,Health Post,NGO,2.9561,43.4869
+Somalia,Bay,Shiidlow (Afar Shiidow) Health Post,Health Post,NGO,2.8455,44.0836
+Somalia,Bay,Toor-Toorow Health Post,Health Post,NGO,2.7628,44.1954
+Somalia,Bay,Toos Weyne Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.0898,43.2058
+Somalia,Bay,Towsi-Libee Health Post,Health Post,,2.8579,42.6724
+Somalia,Bay,Tufka Health Post,Health Post,,2.6229,42.8895
+Somalia,Bay,Ufurow Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7622,42.8868
+Somalia,Bay,Uusley Health Post,Health Post,NGO,3.2856,43.6663
+Somalia,Bay,Uuslli Health Post,Health Post,NGO,3.386,43.4996
+Somalia,Bay,Waamo Health Post,Health Post,NGO,3.0341,44.0485
+Somalia,Bay,Wafdhey Weyn Health Post,Health Post,NGO,2.8729,44.1184
+Somalia,Bay,Walaq Health Post,Health Post,NGO,3.4952,43.2258
+Somalia,Bay,Warabale Health Post,Health Post,NGO,2.9104,43.8097
+Somalia,Bay,Weel Dink Health Post,Health Post,,2.6943,42.7348
+Somalia,Bay,Wegelow Gaduudow Health Post,Health Post,NGO,3.0787,44.1592
+Somalia,Bay,Xagarka Health Post,Health Post,NGO,2.896,43.3189
+Somalia,Bay,Yuubka Health Post,Health Post,NGO,2.6265,44.0113
+Somalia,Galgadud,Balanbal Health Centre,Health Centre,,5.6661,45.9588
+Somalia,Galgadud,Docole Lgr Health Centre,Health Centre,,6.3419,47.001
+Somalia,Galgadud,Elbur Health Centre,Health Centre,,5.0789,46.4312
+Somalia,Galgadud,Marsamage Health Centre,Health Centre,,5.7137,47.2247
+Somalia,Galgadud,Wargalo Health Centre,Health Centre,,6.2372,47.4864
+Somalia,Galgaduud,Adado Health Post,Health Post,NGO,6.1457,46.6271
+Somalia,Galgaduud,Cabudwaaq Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.189,46.3317
+Somalia,Galgaduud,Cadaado Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.1381,46.6255
+Somalia,Galgaduud,Ceel Buur Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.6844,46.6174
+Somalia,Galgaduud,Dhusamareb /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,5.5359,46.3847
+Somalia,Galgaduud,Dusamareb Hospital,Hospital,MoHL,5.5359,46.3847
+Somalia,Galgaduud,El-Dere Hospital,Hospital,NGO,3.8491,47.1803
+Somalia,Galgaduud,El-Dere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8489,47.181
+Somalia,Galgaduud,Galcad Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0226,46.618
+Somalia,Galgaduud,Gelinsor Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.4289,46.7011
+Somalia,Galgaduud,Masage weyn Hospital,Hospital,NGO,3.7046,47.015
+Somalia,Galgaduud,Wah-Weyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8325,47.1469
+Somalia,Gedo,Aanole Health Post,Health Post,,2.0101,42.2857
+Somalia,Gedo,Abid Keyr Health Post,Health Post,,3.8881,42.5321
+Somalia,Gedo,Ayub Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,2.3407,42.2767
+Somalia,Gedo,Baardheere SFC Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7877,41.0688
+Somalia,Gedo,Baghdad Health Post,Health Post,,2.1677,42.1578
+Somalia,Gedo,Ban Munduli Health Post,Health Post,,3.7565,42.557
+Somalia,Gedo,Bardera 2 Health Centre,Health Centre,,2.1869,41.5925
+Somalia,Gedo,Bardhere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.3397,42.285
+Somalia,Gedo,Beled Aamin Health Post,Health Post,,3.9562,41.8939
+Somalia,Gedo,Belet Hawa Hospital,Hospital,NGO,3.7807,41.8944
+Somalia,Gedo,Belet Hawa Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.9294,41.8734
+Somalia,Gedo,Belet Hawo Supp Feeding Centre Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.7807,41.8944
+Somalia,Gedo,Belet Xaawo Maternal & Child Health Centre,Maternal & Child Health Centre,,3.9302,41.8755
+Somalia,Gedo,Buraa Health Post,Health Post,,3.1684,42.1412
+Somalia,Gedo,Burdubo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.1691,42.4941
+Somalia,Gedo,Busleey Health Post,Health Post,,2.3284,42.369
+Somalia,Gedo,Buulo Goof Health Post,Health Post,,2.495,42.2827
+Somalia,Gedo,Buur Bakaar / War Caddey Health Post,Health Post,NGO,4.0259,43.0447
+Somalia,Gedo,Carro Case Health Post,Health Post,,3.6756,42.0254
+Somalia,Gedo,Ceel Boon Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.7322,42.9112
+Somalia,Gedo,Ceel Gadde Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.0349,41.8661
+Somalia,Gedo,Ceel-Dhanaawe Health Post,Health Post,NGO,3.7705,42.9477
+Somalia,Gedo,Daabley Farleysaan Health Post,Health Post,,3.232,42.0236
+Somalia,Gedo,Daar Health Post,Health Post,,2.5693,42.1578
+Somalia,Gedo,Damasa Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7877,40.9983
+Somalia,Gedo,Deegreebe Health Post,Health Post,,4.0354,42.3951
+Somalia,Gedo,Dhubaa Health Post,Health Post,,3.0889,42.2854
+Somalia,Gedo,Dogob Health Post,Health Post,,3.7638,42.3607
+Somalia,Gedo,Dolow SFC/OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1636,42.0762
+Somalia,Gedo,Dooryaanley Health Post,Health Post,,3.7471,42.5272
+Somalia,Gedo,El-Wak Health Post,Health Post,NGO,2.7877,40.9983
+Somalia,Gedo,El-Wak Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7877,40.9983
+Somalia,Gedo,EL-Wak SFC Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7899,41.0102
+Somalia,Gedo,Faan Weyn Health Post,Health Post,,2.8968,42.2814
+Somalia,Gedo,Gaddoondhowe Health Post,Health Post,,3.5693,41.8213
+Somalia,Gedo,Garbahaarey SFC Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.328,42.2197
+Somalia,Gedo,Garbaharey Hospital,Hospital,NGO,3.328,42.2197
+Somalia,Gedo,Garbaharey Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.3289,42.2224
+Somalia,Gedo,Gedweine Health Post,Health Post,NGO,4.0293,42.2943
+Somalia,Gedo,Geer Boolow Health Post,Health Post,,3.911,42.5125
+Somalia,Gedo,Geliyow Health Post,Health Post,NGO,3.8253,42.99
+Somalia,Gedo,Godey Health Post,Health Post,,3.3487,42.0626
+Somalia,Gedo,Gubataay Health Post,Health Post,,4.1345,42.2107
+Somalia,Gedo,Gumarayaale Health Post,Health Post,NGO,3.91,43.0062
+Somalia,Gedo,Guraa Health Post,Health Post,,3.5718,42.0924
+Somalia,Gedo,Haanoy Health Post,Health Post,,3.755,42.537
+Somalia,Gedo,Hagar Gandoob Health Post,Health Post,,2.3135,42.1786
+Somalia,Gedo,Halbow 1 Health Post,Health Post,,3.8563,42.534
+Somalia,Gedo,Hamara Health Post,Health Post,,4.0406,42.3506
+Somalia,Gedo,Harreri Tuur Health Post,Health Post,,3.7361,42.5413
+Somalia,Gedo,Heli Shiid 2 Health Post,Health Post,,3.8294,42.5638
+Somalia,Gedo,Hergaanta Maadey/Bali Do Health Post,Health Post,,2.2094,42.2649
+Somalia,Gedo,Hirda Wadajir Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Gedo,Housquran Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7877,40.9983
+Somalia,Gedo,Huufrey Wiin Health Post,Health Post,,3.2441,42.5069
+Somalia,Gedo,Ir-Weer Health Post,Health Post,NGO,3.6474,42.9555
+Somalia,Gedo,Jubba Hospital,Hospital,,0,0
+Somalia,Gedo,Jubba Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Gedo,Jungal Health Post,Health Post,,2.373,42.0448
+Somalia,Gedo,Karaban Health Post,Health Post,,3.9674,42.7081
+Somalia,Gedo,Khadijo Hagi - Bulo Haji Health Post,Health Post,,3.629,41.6947
+Somalia,Gedo,Khalili Hospital,Hospital,NGO,3.7806,41.8944
+Somalia,Gedo,Laaf Maakade Health Post,Health Post,NGO,3.5935,42.9274
+Somalia,Gedo,Lugh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8,42.5446
+Somalia,Gedo,Luuq Health Post,Health Post,NGO,3.8357,42.5793
+Somalia,Gedo,Luuq Hospital,Hospital,NGO,3.8001,42.5445
+Somalia,Gedo,Maganey Health Post,Health Post,,3.707,42.5207
+Somalia,Gedo,Malkaa Hidaa Health Post,Health Post,,3.3439,42.4816
+Somalia,Gedo,Malkaariyey Health Post,Health Post,,3.9771,41.9131
+Somalia,Gedo,Malmalley Health Post,Health Post,,3.8922,41.934
+Somalia,Gedo,Maracade Health Post,Health Post,,3.4154,42.1416
+Somalia,Gedo,Maykaareebi Health Post,Health Post,,3.4387,42.2816
+Somalia,Gedo,Mira Dhuubow Health Post,Health Post,,3.923,42.5376
+Somalia,Gedo,Odaa Health Post,Health Post,,3.9954,41.9502
+Somalia,Gedo,Qooney Health Post,Health Post,,4.0894,42.6248
+Somalia,Gedo,Safarnooley Health Post,Health Post,NGO,3.7404,43.0011
+Somalia,Gedo,Samaroole Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7929,41.2275
+Somalia,Gedo,Shaatilow Health Post,Health Post,,3.9006,42.4276
+Somalia,Gedo,Sunya Health Post,Health Post,,3.2605,42.492
+Somalia,Gedo,Sur Gaduud Health Post,Health Post,,4.0949,42.0288
+Somalia,Gedo,Tawakal Health Post,Health Post,,2.3432,42.1132
+Somalia,Gedo,Tawakal Health Post,Health Post,,3.6623,42.5001
+Somalia,Gedo,Tuulo Barwaaqo Tubaalo Ba Health Post,Health Post,,3.4976,42.1575
+Somalia,Gedo,Uunsi Weyn Health Post,Health Post,,4.0223,41.9541
+Somalia,Gedo,Xero Koowaad Health Post,Health Post,,3.7945,42.5298
+Somalia,Gedo,Yurkud Health Post,Health Post,,3.5205,42.7707
+Somalia,Hiiran,Ceel Idaad Health Post,Health Post,,4.6687,44.8824
+Somalia,Hiiran,Dabayoodle Health Centre,Health Centre,,4.0544,45.4247
+Somalia,Hiiran,Farlibaax Health Post,Health Post,,4.8553,44.8424
+Somalia,Hiiran,Kirkiri Health Post,Health Post,,4.703,44.6882
+Somalia,Hiiran,Miir Gurac Health Post,Health Post,,5.177,45.522
+Somalia,Hiiran,Moqokori Health Centre,Health Centre,,4.0383,46.1015
+Somalia,Hiraan,Alola'Ad Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Amalow Health Post,Health Post,NGO,4.605,45.2524
+Somalia,Hiraan,Aqabooy Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Ba'Aad Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Baacyar Health Post,Health Post,NGO,4.5015,45.2747
+Somalia,Hiraan,Ba'Ad Buko Health Post,Health Post,NGO,4.8262,45.1702
+Somalia,Hiraan,Baadikeen Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Baarey Health Post,Health Post,,4.5502,45.2788
+Somalia,Hiraan,Baaslaawe Health Post,Health Post,,4.8287,45.177
+Somalia,Hiraan,Bacaad Buko Health Post,Health Post,,4.8262,45.1702
+Somalia,Hiraan,Beer Hano Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Beer Xaano Health Post,Health Post,,4.5339,45.3421
+Somalia,Hiraan,Beer-Gadiid Health Post,Health Post,,5.083,45.3143
+Somalia,Hiraan,Beled Salaama Health Post,Health Post,,4.8894,45.0398
+Somalia,Hiraan,Beled Salam Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Belet Aqable Maternal & Child Health Centre,Maternal & Child Health Centre,,4.7351,45.2065
+Somalia,Hiraan,Belet Weyn Hospital,Hospital,NGO,4.7297,45.2081
+Somalia,Hiraan,Belet Weyne (Or Koshin) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.7351,45.2066
+Somalia,Hiraan,Belet Weyne Health Post,Health Post,NGO,4.7351,45.2066
+Somalia,Hiraan,Belet Weyne West Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.7367,45.2062
+Somalia,Hiraan,Ber Gadiid Health Post,Health Post,NGO,5.083,45.3143
+Somalia,Hiraan,Booco Maternal & Child Health Centre,Maternal & Child Health Centre,,3.3644,42.3119
+Somalia,Hiraan,Bulo Burti Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.8536,45.566
+Somalia,Hiraan,Bundoweyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.7303,45.2075
+Somalia,Hiraan,Buq Gosar Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Buq Koosaar Health Post,Health Post,,4.5126,44.8181
+Somalia,Hiraan,Buqaqable Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0578,45.253
+Somalia,Hiraan,Buqda Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.0578,45.253
+Somalia,Hiraan,Cagoboy Health Post,Health Post,,4.2633,45.3909
+Somalia,Hiraan,Caloola Cad Health Post,Health Post,,4.6609,45.2127
+Somalia,Hiraan,Ceel Cali/El Uared Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1949,44.9872
+Somalia,Hiraan,Cel Dhere Health Post,Health Post,,4.4197,44.8732
+Somalia,Hiraan,Deefoow Health Post,Health Post,,4.9355,45.0342
+Somalia,Hiraan,Deefow Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Dhagran Health Post,Health Post,NGO,4.5354,45.2894
+Somalia,Hiraan,Dharkeynley Health Post,Health Post,,4.7922,45.1996
+Somalia,Hiraan,Dharkeynta Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Eel-Dher Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Halgan Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.2117,45.5625
+Somalia,Hiraan,Howlwadag Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.7367,45.2062
+Somalia,Hiraan,IMC Bundo Weyne Maternal & Child Health Centre,Maternal & Child Health Centre,,4.7325,45.2083
+Somalia,Hiraan,IMC Kooshin Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.7387,45.2049
+Somalia,Hiraan,Jalalaqsi Health Post,Health Post,NGO,3.3759,45.6008
+Somalia,Hiraan,Jalalaqsi Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.3795,45.5994
+Somalia,Hiraan,Kabhanleey Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,KM-300 Health Post,Health Post,NGO,4.4925,45.3428
+Somalia,Hiraan,Kooshin Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,0,0
+Somalia,Hiraan,Leebow Health Post,Health Post,NGO,4.7964,45.1956
+Somalia,Hiraan,Ma'Anqale Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Macaqal Health Post,Health Post,,4.5889,45.2387
+Somalia,Hiraan,Maclow Health Post,Health Post,,4.6437,45.2371
+Somalia,Hiraan,Moqokori /Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.3924,46.0892
+Somalia,Hiraan,Moqokori Health Post,Health Post,NGO,4.3924,46.0892
+Somalia,Hiraan,Nur-Fanah Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Nuur Fanax Health Post,Health Post,,4.4145,45.3923
+Somalia,Hiraan,October Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,0,0
+Somalia,Hiraan,Qolow Health Post,Health Post,,4.4667,45.2789
+Somalia,Hiraan,Qoolow Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Qoydo Health Post,Health Post,NGO,4.8801,45.0874
+Somalia,Hiraan,Quracle Health Post,Health Post,NGO,3.2597,45.4957
+Somalia,Hiraan,Quracleey Health Post,Health Post,NGO,4.7063,45.2108
+Somalia,Hiraan,Tre Cento(Seddex Boqol) Health Post,Health Post,,4.4925,45.3428
+Somalia,Hiraan,Tulo Hiran Health Post,Health Post,NGO,4.7367,45.2062
+Somalia,Hiraan,Tuulo Hiiraan Health Post,Health Post,,4.8324,45.2139
+Somalia,Lower Juba,Afmadow Eirg Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.5149,42.073
+Somalia,Lower Juba,Afrec Afmadow Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.5149,42.073
+Somalia,Lower Juba,Afrec Kismayo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3617,42.5487
+Somalia,Lower Juba,Badadai Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-1.0354,41.5005
+Somalia,Lower Juba,Badade Health Post,Health Post,NGO,-1.0354,41.5005
+Somalia,Lower Juba,Badhadhe /Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-1.0354,41.5005
+Somalia,Lower Juba,Bilis Qooqaani Health Centre,Health Centre,,0.2415,41.6758
+Somalia,Lower Juba,Bulo Haji SRCS Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.632,41.9841
+Somalia,Lower Juba,Calanley Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3631,42.5445
+Somalia,Lower Juba,Calanley Muslim Aid Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3631,42.5445
+Somalia,Lower Juba,Dhoblei Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.4063,41.0124
+Somalia,Lower Juba,Fanole Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3603,42.5463
+Somalia,Lower Juba,Fanole Muslim Aid Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.7516,42.6506
+Somalia,Lower Juba,Farjano Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3524,42.5392
+Somalia,Lower Juba,Farjano SRCS Maternal & Child Health Centre,Maternal & Child Health Centre,,-0.3604,42.5461
+Somalia,Lower Juba,Gadudai Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.072,42.5706
+Somalia,Lower Juba,Garsay Kuusa Health Centre,Health Centre,,-0.758,41.6044
+Somalia,Lower Juba,Hagar Sordes Maternal & Child Health Centre,Maternal & Child Health Centre,,0.8323,41.9706
+Somalia,Lower Juba,Jaf Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3604,42.5461
+Somalia,Lower Juba,Jamame /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.0692,42.7382
+Somalia,Lower Juba,Kisima Health Post,Health Post,NGO,1.7246,44.4526
+Somalia,Lower Juba,Kismayo 2 Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3604,42.5461
+Somalia,Lower Juba,Kismayo Hospital,Hospital,NGO,-0.3604,42.5461
+Somalia,Lower Juba,Kismayo SRCS Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-0.3603,42.5463
+Somalia,Lower Juba,Kudha Health Post,Health Post,NGO,-1.5806,41.62
+Somalia,Lower Juba,Kudha Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,-1.5806,41.62
+Somalia,Lower Juba,Mugambo Health Post,Health Post,NGO,0.1562,42.7177
+Somalia,Lower Juba,Mugambo SRCS Maternal & Child Health Centre,Maternal & Child Health Centre,,0.1562,42.7177
+Somalia,Lower Juba,Mugambow Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.1562,42.7177
+Somalia,Lower Juba,Muslim Aid-Jamaame Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.0691,42.7382
+Somalia,Lower Juba,Naasariya (SAF) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Lower Shabelle,Adan Ade Hospital Merka,Hospital,,1.7553,44.6553
+Somalia,Lower Shabelle,Afgoi District Hospital,District Hospital,NGO,1.9819,44.9854
+Somalia,Lower Shabelle,Afgoi Yare Health Post,Health Post,,2.2835,45.1695
+Somalia,Lower Shabelle,Afqoi /OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.1416,45.1187
+Somalia,Lower Shabelle,Agriculture Uv. COSV Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.1076,45.1502
+Somalia,Lower Shabelle,Al-Hijiira Maternal & Child Health Centre,Maternal & Child Health Centre,,2.1423,45.117
+Somalia,Lower Shabelle,Arbis /OPD Swc Maternal & Child Health Centre,Maternal & Child Health Centre,,2.122,45.169
+Somalia,Lower Shabelle,Aw Dhegle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.9794,44.8313
+Somalia,Lower Shabelle,Ayub Orphanage-Wfl Health Post,Health Post,NGO,1.7157,44.7697
+Somalia,Lower Shabelle,B/Marerta Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Lower Shabelle,Bananey Health Post,Health Post,,1.6101,44.2278
+Somalia,Lower Shabelle,Barawa Hospital,Hospital,NGO,1.1148,44.0304
+Somalia,Lower Shabelle,Barawe Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.1148,44.0304
+Somalia,Lower Shabelle,Bariire Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0471,44.8983
+Somalia,Lower Shabelle,Beraha OPD Maternal & Child Health Centre,Maternal & Child Health Centre,,2.1066,45.1552
+Somalia,Lower Shabelle,Bulo Kadil Health Centre,Health Centre,,2.1875,44.825
+Somalia,Lower Shabelle,Busley Health Post,Health Post,,1.8536,44.7476
+Somalia,Lower Shabelle,Buulo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.5985,44.2194
+Somalia,Lower Shabelle,Ceel Sheik Health Post,Health Post,MoHL,1.4949,44.4711
+Somalia,Lower Shabelle,Dara -Salam Maternal & Child Health Centre,Maternal & Child Health Centre,CBO,1.9794,44.8313
+Somalia,Lower Shabelle,Daryeel Hospital Lafoole,Hospital,,2.0178,45.2547
+Somalia,Lower Shabelle,Digfer Hospital,Hospital,,2.0412,45.3041
+Somalia,Lower Shabelle,Elasha Maternal & Child Health Centre,Maternal & Child Health Centre,,2.0834,45.2068
+Somalia,Lower Shabelle,Faqi Hospital,Hospital,,0,0
+Somalia,Lower Shabelle,Farhano Health Post,Health Post,,1.178,43.7236
+Somalia,Lower Shabelle,Fatxi Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Lower Shabelle,Forlanin Hospital,Hospital,NGO,1.7246,44.4526
+Somalia,Lower Shabelle,Garasbaaley OPD Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0693,45.2698
+Somalia,Lower Shabelle,Garasweyn /Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.9301,44.9352
+Somalia,Lower Shabelle,Gaywarow Health Post,Health Post,,1.7671,44.5699
+Somalia,Lower Shabelle,Giumale Opd Islamic Relief Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.3117,44.7077
+Somalia,Lower Shabelle,Golweyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.6572,44.5796
+Somalia,Lower Shabelle,H/Wadag Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.7201,44.7754
+Somalia,Lower Shabelle,Hayat 2 Hospital,Hospital,NGO,1.611,44.3299
+Somalia,Lower Shabelle,Horsed Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.7508,44.6279
+Somalia,Lower Shabelle,Janale Health Post,Health Post,NGO,1.7353,44.606
+Somalia,Lower Shabelle,Janale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.806,44.6939
+Somalia,Lower Shabelle,K- 13 Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0703,45.2365
+Somalia,Lower Shabelle,K-50 Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.9851,44.9856
+Somalia,Lower Shabelle,Keysaney Hospital,Hospital,NGO,2.6242,45.3225
+Somalia,Lower Shabelle,Kulmiye SOS Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Lower Shabelle,Kurtunwaarey Health Post,Health Post,NGO,1.611,44.3299
+Somalia,Lower Shabelle,Kurtunwaarey Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.611,44.3303
+Somalia,Lower Shabelle,Lafole Cosv Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0996,45.1635
+Somalia,Lower Shabelle,Lafole Orph.Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.1064,45.1534
+Somalia,Lower Shabelle,Lafoole Daryeel Hijra Health Post,Health Post,,2.0787,45.1718
+Somalia,Lower Shabelle,Lafoole Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.0787,45.1718
+Somalia,Lower Shabelle,Marerey Maternal & Child Health Centre,Maternal & Child Health Centre,,2.1347,45.0561
+Somalia,Lower Shabelle,Marigubay Health Post,Health Post,,0,0
+Somalia,Lower Shabelle,Marka Maternal & Child Health Centre,Maternal & Child Health Centre,,1.7201,44.78
+Somalia,Lower Shabelle,Marka Regional Hospital,Regional Hospital,NGO,1.7133,44.7657
+Somalia,Lower Shabelle,Medina Hospital,Hospital,NGO,2.2204,45.2259
+Somalia,Lower Shabelle,Mushani Health Post,Health Post,,1.7779,44.6572
+Somalia,Lower Shabelle,New Way Health Post,Health Post,NGO,1.7201,44.7754
+Somalia,Lower Shabelle,Qorioley Health Post,Health Post,NGO,1.7858,44.5312
+Somalia,Lower Shabelle,Qoryoley District Hospital,District Hospital,NGO,1.7858,44.5312
+Somalia,Lower Shabelle,Qoryoley Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.7859,44.5313
+Somalia,Lower Shabelle,Relief For Life Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Lower Shabelle,Saacid OPD Islamic Relief Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Lower Shabelle,Sabir OPD Islamic Relief Maternal & Child Health Centre,Maternal & Child Health Centre,,2.1296,45.0359
+Somalia,Lower Shabelle,Sablale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.3052,43.889
+Somalia,Lower Shabelle,Shalambod Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.713,44.6952
+Somalia,Lower Shabelle,Sigale Health Post,Health Post,,1.854,44.7088
+Somalia,Lower Shabelle,Somalia Army Hospital,Hospital,,2.0471,45.308
+Somalia,Lower Shabelle,Swisso Health Post,Health Post,NGO,2.6565,44.8805
+Somalia,Lower Shabelle,Volunteer for Medical Services (VMS) Hospital,Hospital,,0,0
+Somalia,Lower Shabelle,Wadajir Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.7145,44.7695
+Somalia,Lower Shabelle,Wagaade Health Post,Health Post,,1.7538,44.6422
+Somalia,Lower Shabelle,Wanla Weyn Health Post,Health Post,NGO,2.6195,44.8936
+Somalia,Lower Shabelle,Wanle Weyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.6195,44.8936
+Somalia,Lower Shabelle,Xera Agoonta M.Aid Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Middle Juba,Aminow Health Centre,Health Centre,,0.3783,42.8298
+Somalia,Middle Juba,Arabow Health Post,Health Post,,1.4152,42.9282
+Somalia,Middle Juba,Banaada Srcs Maternal & Child Health Centre,Maternal & Child Health Centre,,1.902,42.5645
+Somalia,Middle Juba,Bu'Aale Health Post,Health Post,NGO,1.2448,42.5732
+Somalia,Middle Juba,Buale /Wvi Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.2448,42.5732
+Somalia,Middle Juba,Cilmi Health Post,Health Post,,1.3795,42.3749
+Somalia,Middle Juba,Gaduduy Health Post,Health Post,NGO,1.8119,42.2957
+Somalia,Middle Juba,Gaduudey /Opd Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.8119,42.2957
+Somalia,Middle Juba,Gobate Health Post,Health Post,,1.3497,42.4701
+Somalia,Middle Juba,Goljano Health Post,Health Post,,1.4449,42.4106
+Somalia,Middle Juba,Jilib 2 (East) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.4934,42.7701
+Somalia,Middle Juba,Jilib Health Post,Health Post,NGO,0.4934,42.7701
+Somalia,Middle Juba,Jilib Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.4935,42.7702
+Somalia,Middle Juba,Mareerey Maternal & Child Health Centre,Maternal & Child Health Centre,,0.4294,42.7154
+Somalia,Middle Juba,Sakow Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0.8168,42.6075
+Somalia,Middle Juba,Salagle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,1.2447,42.5731
+Somalia,Middle Juba,Xaramka Health Centre,Health Centre,,0.6044,43.1451
+Somalia,Middle Shabelle,Adale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.76,46.31
+Somalia,Middle Shabelle,Adan Yabaal Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,3.7784,46.2464
+Somalia,Middle Shabelle,Bal`Ad Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.6267,45.5048
+Somalia,Middle Shabelle,Balad Opd/<12Yrs Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.3593,45.3896
+Somalia,Middle Shabelle,Biyo Cade Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,2.8111,45.3278
+Somalia,Middle Shabelle,Bullo -Sheekh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.78,45.49
+Somalia,Middle Shabelle,Buurane Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,2.9647,45.5119
+Somalia,Middle Shabelle,Gololey Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.78,45.49
+Somalia,Middle Shabelle,Hawadley Inter. Sos Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.7806,45.5004
+Somalia,Middle Shabelle,Jowhar Regional Hospital,Regional Hospital,NGO,2.78,45.49
+Somalia,Middle Shabelle,Kulmis Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.78,45.49
+Somalia,Middle Shabelle,Mahaday Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.9704,45.5347
+Somalia,Middle Shabelle,Warsheikh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,2.2983,45.798
+Somalia,Mudug,Amara Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.6542,47.8572
+Somalia,Mudug,Ba'Dweyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.1921,47.5263
+Somalia,Mudug,Bajeelo Health Centre,Health Centre,,5.766,47.6863
+Somalia,Mudug,Balambal Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.449,48.1423
+Somalia,Mudug,Bali Busle Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.0951,48.1575
+Somalia,Mudug,Bayra Health Post,Health Post,NGO,6.95,47.31
+Somalia,Mudug,Bursalah Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.1742,47.2453
+Somalia,Mudug,Camaara Health Centre,Health Centre,,5.1229,47.9087
+Somalia,Mudug,Ceel-Dibir Health Centre,Health Centre,,5.8469,48.3382
+Somalia,Mudug,Dabagalo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.9217,47.6652
+Somalia,Mudug,Docol Health Centre,Health Centre,,6.4323,47.4674
+Somalia,Mudug,Gaalkacyo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,6.7692,47.4306
+Somalia,Mudug,Gaalkacyo South Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.7692,47.4306
+Somalia,Mudug,Galdogob District Hospital,Hospital,MoHL,6.9903,47.1656
+Somalia,Mudug,Galdogob Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,6.9947,47.0906
+Somalia,Mudug,Galkaio Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,6.7692,47.4306
+Somalia,Mudug,Galkayo (Gmc) (Day Clinic & Maternity) Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,6.76,47.42
+Somalia,Mudug,Galkayo Medical Centre Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,6.7964,47.422
+Somalia,Mudug,Harar Dere Hospital,Hospital,NGO,4.6517,47.8584
+Somalia,Mudug,Harar Dere Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.6517,47.8584
+Somalia,Mudug,Harfo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.3483,47.6206
+Somalia,Mudug,Jariiban District Hospital,Hospital,MoHL,7.2135,48.851
+Somalia,Mudug,Jole Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,4.1612,46.9124
+Somalia,Mudug,Mudug Regional Hospital Or Gaalkacyo Community Hospital,Regional Hospital,MoHL/NGO,6.76,47.42
+Somalia,Mudug,Qarsooni Health Centre,Health Centre,,5.8231,47.8481
+Somalia,Mudug,Usgure Health Post,Health Post,NGO,7.5183,49.416
+Somalia,Mudug,Xaarfo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.3483,47.6206
+Somalia,Mudug,Xaraf Health Post,Health Post,MoHL,4.67,47.77
+Somalia,Nugaal,Awrculus Maternal & Child Health Centre,Maternal & Child Health Centre,,8.0577,48.6077
+Somalia,Nugaal,Bandunbuto Health Post,Health Post,,8.5042,49.4129
+Somalia,Nugaal,Burtinle District Hospital,Hospital,MoHL,7.7344,47.8831
+Somalia,Nugaal,Burtinle Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,7.6455,47.8315
+Somalia,Nugaal,Cuun Health Post,Health Post,,8.8166,48.8865
+Somalia,Nugaal,Dangorayo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.7261,49.3393
+Somalia,Nugaal,Dhiganle Health Post,Health Post,,7.8081,49.5021
+Somalia,Nugaal,Eyl District Hospital,Hospital,MoHL,7.96,49.84
+Somalia,Nugaal,Eyl Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.9794,49.8177
+Somalia,Nugaal,Gambool Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.4059,48.4819
+Somalia,Nugaal,Garowe Hospital,Hospital,MoHL,8.4071,48.4773
+Somalia,Nugaal,Garowe Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.4056,48.4885
+Somalia,Nugaal,Godobjirin Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.6415,47.7837
+Somalia,Nugaal,Hasbahale Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.5792,48.6161
+Somalia,Nugaal,Health Post,Health Post,,8.0215,49.0083
+Somalia,Nugaal,Jalam Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.8659,48.0382
+Somalia,Nugaal,Jeriban Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.75,48.67
+Somalia,Nugaal,Kalabayr Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,7.9831,48.1047
+Somalia,Nugaal,Magacley Health Post,Health Post,MoHL,7.8439,47.903
+Somalia,Nugaal,Qarxis Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,7.9839,48.1031
+Somalia,Nugaal,Sinujif Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.5329,48.9845
+Somalia,Nugaal,Waberi (Enji) Maternal & Child Health Centre,Maternal & Child Health Centre,,8.4056,48.4885
+Somalia,Nugaal,Xamur Health Post,Health Post,,8.7095,48.7407
+Somalia,Nugaal,Yombays Health Post,Health Post,NGO,8.0215,49.0083
+Somalia,Sanaag,Alhamdulilah Health Post,Health Post,MoHL,10.0847,49.0288
+Somalia,Sanaag,Badhan Hospital,Hospital,MoHL,10.7132,48.3331
+Somalia,Sanaag,Badhan Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.7132,48.3059
+Somalia,Sanaag,Barwago Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5572,48.4876
+Somalia,Sanaag,Buraan Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.2184,48.7688
+Somalia,Sanaag,Carmaale Health Post,Health Post,MoHL,10.4787,47.959
+Somalia,Sanaag,Ceel Afweyn Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.9303,47.2168
+Somalia,Sanaag,Ceel-Afweyn Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.9276,47.2154
+Somalia,Sanaag,Ceelbuh Health Post,Health Post,MoHL,10.2255,48.3099
+Somalia,Sanaag,Ceerigaabo Kulmiye Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.6203,47.3685
+Somalia,Sanaag,Ceerigaabo Referral Hospital,Referral Hospital,MoHL,10.6203,47.3685
+Somalia,Sanaag,Cerigabo Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.6218,47.3681
+Somalia,Sanaag,Dahahar Hospital Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.748,48.8213
+Somalia,Sanaag,Dararweyne Health Post,Health Post,MoHL,9.7574,47.5272
+Somalia,Sanaag,Dhahar Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.748,48.8199
+Somalia,Sanaag,Dhur Cilaan Health Post,Health Post,MoHL,10.1265,46.3513
+Somalia,Sanaag,Fiqifuliye Health Post,Health Post,MoHL,10.027,47.7817
+Somalia,Sanaag,Gal-Shiikh Health Post,Health Post,MoHL,10.068,47.2048
+Somalia,Sanaag,Garadag Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.4885,46.8673
+Somalia,Sanaag,Gar'Adag Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.487,46.8669
+Somalia,Sanaag,Gud-Caanood Health Post,Health Post,MoHL,10.11,47.29
+Somalia,Sanaag,Gudmo Biyo Cas Health Post,Health Post,MoHL,10.58,46.95
+Somalia,Sanaag,Hadaaftimo Maternal & Child Health Centre,Maternal & Child Health Centre,,10.7654,48.105
+Somalia,Sanaag,Hadaftimo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.7651,48.1052
+Somalia,Sanaag,Hidda Health Post,Health Post,MoHL/NGO,-0.9333,41.1523
+Somalia,Sanaag,Hingalol Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,0,0
+Somalia,Sanaag,Hingalool Maternal & Child Health Centre,Maternal & Child Health Centre,,0,0
+Somalia,Sanaag,Jidali Health Post,Health Post,MoHL,10.72,47.67
+Somalia,Sanaag,Juurile Health Post,Health Post,MoHL,10.3868,49.0716
+Somalia,Sanaag,Kulmiye Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.7534,47.5497
+Somalia,Sanaag,Laasqoray Hospital,Hospital,MoHL,11.16,48.1949
+Somalia,Sanaag,Laasqoray Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,11.16,48.1949
+Somalia,Sanaag,Maydh Health Post,Health Post,MoHL,10.9734,47.1059
+Somalia,Sanaag,Rugay Health Post,Health Post,MoHL,10.83,47.3
+Somalia,Sanaag,Sherbi Sanaag Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.8631,49.0908
+Somalia,Sanaag,Shimbirale Health Post,Health Post,MoHL,10.1398,47.909
+Somalia,Sanaag,Waciya Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.0134,49.045
+Somalia,Sanaag,Waciye Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.0134,49.045
+Somalia,Sanaag,Xiis Health Post,Health Post,MoHL,10.8691,46.9082
+Somalia,Sanaag,Yube Health Post,Health Post,MoHL,10.73,47.96
+Somalia,Sanaag,Yufle Health Post,Health Post,MoHL,10.377,47.1957
+Somalia,Sool,Adhicadeeye Health Post,Health Post,MoHL,8.67,47.14
+Somalia,Sool,Ainabo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.9576,46.4125
+Somalia,Sool,Awr Bogeys Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5678,47.7555
+Somalia,Sool,Boame Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.3963,47.9357
+Somalia,Sool,Bohol Health Post,Health Post,MoHL,9.3615,47.3024
+Somalia,Sool,Carrooley Health Post,Health Post,MoHL,8.85,48.14
+Somalia,Sool,Caynabo Health Post,Health Post,MoHL,8.9576,46.4125
+Somalia,Sool,Dabataag Health Post,Health Post,MoHL,8.1134,47.1601
+Somalia,Sool,Dami Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5598,44.0668
+Somalia,Sool,Dan Health Post,Health Post,MoHL,8.1566,47.6896
+Somalia,Sool,Dhaban-Saar Health Post,Health Post,MoHL,8.4767,47.3565
+Somalia,Sool,Dhanaano Health Post,Health Post,MoHL,9.4729,46.6275
+Somalia,Sool,Dhummay Health Post,Health Post,MoHL,9.1074,48.5126
+Somalia,Sool,Farhiddin Health Post,Health Post,MoHL,8.0694,47.9822
+Somalia,Sool,Godaalo Health Post,Health Post,MoHL,9.08,47.93
+Somalia,Sool,Gowsa Weyne Health Centre,Health Centre,,9.0786,46.7726
+Somalia,Sool,Hudun Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.1544,47.4772
+Somalia,Sool,Kalabaydh Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.2422,47.2266
+Somalia,Sool,Karindabayl Weyn Health Post,Health Post,MoHL,8.12,47.51
+Somalia,Sool,Karingorfood Health Post,Health Post,MoHL,8.12,47.77
+Somalia,Sool,Korile Health Post,Health Post,MoHL,8.0047,47.5653
+Somalia,Sool,Las-anod Hospital,Hospital,MoHL,8.4767,47.3565
+Somalia,Sool,Las-Anod Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.4816,47.3557
+Somalia,Sool,Oog Health Post,Health Post,MoHL,8.9348,46.6184
+Somalia,Sool,Sahader Health Post,Health Post,MoHL,8.0044,47.1025
+Somalia,Sool,Sarmanyo Health Post,Health Post,MoHL,9.4892,47.9895
+Somalia,Sool,Shaxda Health Post,Health Post,NGO,9.1781,48.9049
+Somalia,Sool,Shululux Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.2422,47.2266
+Somalia,Sool,Taleeh Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.1488,48.4209
+Somalia,Sool,Taleex Hospital,Hospital,MoHL,9.1488,48.4209
+Somalia,Sool,Wadamago Health Post,Health Post,MoHL,8.93,46.24
+Somalia,Sool,War Idaad Health Post,Health Post,MoHL,9.28,46.25
+Somalia,Sool,Wiriir Health Post,Health Post,MoHL,9.466,46.186
+Somalia,Sool,Xalin Health Post,Health Post,MoHL,9.1,48.62
+Somalia,Togdheer,Cali Sahid Health Centre,Health Centre,,8.5312,45.5257
+Somalia,Togdheer,Daryaleh Health Centre,Health Centre,,8.4456,45.7708
+Somalia,Togdheer,Dhariyalay Health Centre,Health Centre,,8.417,45.8469
+Somalia,Togdheer,Dhoqoshay Health Centre,Health Centre,,8.5241,45.7042
+Somalia,Togdheer,Harada Health Centre,Health Centre,,8.7787,45.4448
+Somalia,Toghdheer,Adan Suleiman Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5275,45.5375
+Somalia,Toghdheer,Balleh Dig Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.3686,45.9142
+Somalia,Toghdheer,Barrcad Health Post,Health Post,MoHL,8.8821,45.0995
+Somalia,Toghdheer,Buhodle District Hospital,District Hospital,MoHL,8.2516,46.3157
+Somalia,Toghdheer,Burco Hospital,Hospital,MoHL,9.5346,45.5379
+Somalia,Toghdheer,Buroa Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5203,45.5727
+Somalia,Toghdheer,Central Burao Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5275,45.5375
+Somalia,Toghdheer,Dharkayn-Geenyo Health Post,Health Post,MoHL,8.0031,46.995
+Somalia,Toghdheer,Dr. Alag Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,0,0
+Somalia,Toghdheer,Dr. Yuusf Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,0,0
+Somalia,Toghdheer,Duruqsi Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.5177,45.4615
+Somalia,Toghdheer,Farah Omar Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,0,0
+Somalia,Toghdheer,Fiqi Ayuub Health Post,Health Post,MoHL,9.9367,46.0255
+Somalia,Toghdheer,Gedeys Health Post,Health Post,MoHL,9.95,45.48
+Somalia,Toghdheer,Haji Salah Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,0,0
+Somalia,Toghdheer,Haro Shiikh Health Post,Health Post,MoHL,9.3163,44.7576
+Somalia,Toghdheer,Huddisa Health Post,Health Post,MoHL,9.9994,45.1644
+Somalia,Toghdheer,Kalbarre Health Post,Health Post,MoHL,9.9052,45.5712
+Somalia,Toghdheer,Kenya Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.5182,45.5308
+Somalia,Toghdheer,Kossar Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.5783,45.5196
+Somalia,Toghdheer,Lalays Health Post,Health Post,MoHL,10.0795,45.1526
+Somalia,Toghdheer,Mohammed Ali Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.5275,45.5375
+Somalia,Toghdheer,Nasiye Health Post,Health Post,MoHL,8.7488,45.6356
+Somalia,Toghdheer,Odwieyne Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.4086,45.0617
+Somalia,Toghdheer,Qolilugad Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,0,0
+Somalia,Toghdheer,Qoryale Health Post,Health Post,MoHL,9.0634,45.9706
+Somalia,Toghdheer,Shansa Cade Health Post,Health Post,MoHL,8.6544,45.9331
+Somalia,Toghdheer,Sheikh Hospital,Hospital,MoHL,9.9299,45.1913
+Somalia,Toghdheer,Sheikh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.9299,45.1913
+Somalia,Toghdheer,Sii-Bakhti Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5275,45.5375
+Somalia,Toghdheer,Sugsade Health Post,Health Post,MoHL,9.9414,45.3293
+Somalia,Toghdheer,Teysa Health Post,Health Post,MoHL,9.5675,43.6728
+Somalia,Toghdheer,Warabeye Health Post,Health Post,MoHL,8.8763,45.5769
+Somalia,Toghdheer,Warcimraan Health Post,Health Post,MoHL,8.8006,45.8924
+Somalia,Toghdheer,Widhwidh Health Post,Health Post,MoHL,8.4541,46.7068
+Somalia,Toghdheer,X/Salax Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,8.594,45.237
+Somalia,Toghdheer,Xaaxi Health Post,Health Post,MoHL,9.351,44.9655
+Somalia,Toghdheer,Xidh-Xidh Health Post,Health Post,MoHL,8.3736,46.9862
+Somalia,Toghdheer,Yagori Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,8.7545,46.9628
+Somalia,Toghdheer,Yarowe Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.4336,45.6753
+Somalia,West Galbeed,Adadley Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.7664,44.691
+Somalia,West Galbeed,Agabar Health Post,Health Post,,9.9262,43.9159
+Somalia,West Galbeed,Allaybaday Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.3973,43.5235
+Somalia,West Galbeed,Arabsiyo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.67,43.76
+Somalia,West Galbeed,Ayaha Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.3224,44.0208
+Somalia,West Galbeed,Bali-Abene Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.2967,44.53
+Somalia,West Galbeed,Bali-Gubadle Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.0109,44.0192
+Somalia,West Galbeed,Berbera Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.4458,45.0208
+Somalia,West Galbeed,Berbera Regional Hospital,Regional Hospital,MoHL,10.387,45.0129
+Somalia,West Galbeed,Boodhley Health Post,Health Post,MoHL,9.6007,43.5428
+Somalia,West Galbeed,Booror Health Post,Health Post,,9.637,43.5724
+Somalia,West Galbeed,Boqor Health Post,Health Post,MoHL,9.637,43.5725
+Somalia,West Galbeed,Bullaxaar Health Post,Health Post,MoHL,10.3906,44.4024
+Somalia,West Galbeed,Buqdhaha Health Post,Health Post,,9.8953,43.5809
+Somalia,West Galbeed,Bus Health Post,Health Post,MoHL,9.8571,43.6744
+Somalia,West Galbeed,Busley Health Post,Health Post,NGO,9.553,43.6932
+Somalia,West Galbeed,Cali Haidh Health Post,Health Post,MoHL,10.0428,43.7845
+Somalia,West Galbeed,Ceel Bardale Health Post,Health Post,MoHL,9.8252,43.4765
+Somalia,West Galbeed,Ceel Ganiiseed Health Post,Health Post,,9.7295,43.7159
+Somalia,West Galbeed,Central Berbera Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.4385,45.0112
+Somalia,West Galbeed,Central Hargeisa Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.5596,44.0667
+Somalia,West Galbeed,Da'Ar-Budhuq Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8565,44.5275
+Somalia,West Galbeed,Dacarbuq Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8565,44.5275
+Somalia,West Galbeed,Daraarweyne Health Post,Health Post,MoHL,9.7196,44.2231
+Somalia,West Galbeed,Darar-Weyne Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.7196,44.2231
+Somalia,West Galbeed,Darasalam Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8408,44.0137
+Somalia,West Galbeed,Dhinbi Riyaale Health Post,Health Post,MoHL,9.2723,44.1111
+Somalia,West Galbeed,Dudumale Health Post,Health Post,NGO,9.704,43.372
+Somalia,West Galbeed,El-Lahelay Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.3667,47.15
+Somalia,West Galbeed,G/Samo Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5598,44.0668
+Somalia,West Galbeed,Gabiley Hospital,Hospital,MoHL,9.7015,43.626
+Somalia,West Galbeed,Gabiley Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,9.7048,43.6252
+Somalia,West Galbeed,Garabis Health Post,Health Post,MoHL,9.4397,43.9547
+Somalia,West Galbeed,Geed Ballaadh Health Post,Health Post,MoHL,9.4847,43.4317
+Somalia,West Galbeed,Geed Deeble Health Post,Health Post,MoHL,9.7473,43.9727
+Somalia,West Galbeed,Geed Diqsi Health Post,Health Post,MoHL,9.8283,43.4181
+Somalia,West Galbeed,Go'Da-Wayn Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,0,0
+Somalia,West Galbeed,Gumar Health Post,Health Post,MoHL,9.109,43.9163
+Somalia,West Galbeed,Gumbura Health Post,Health Post,MoHL,9.1173,44.1
+Somalia,West Galbeed,Hargeisa Central Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5598,44.0668
+Somalia,West Galbeed,Hargeisa Group Hospital,Hospital,MoHL,9.5596,44.0667
+Somalia,West Galbeed,Hawadle Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5596,44.0667
+Somalia,West Galbeed,Horahaadley Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.8776,44.0319
+Somalia,West Galbeed,Iftin Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5596,44.0667
+Somalia,West Galbeed,Ijaara Health Post,Health Post,,9.5836,43.6289
+Somalia,West Galbeed,Ilkawayne Health Post,Health Post,,9.6893,43.4016
+Somalia,West Galbeed,Ilmo Deddo Health Post,Health Post,,9.7545,43.4626
+Somalia,West Galbeed,Jamo-Laye Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,10.4427,45.0215
+Somalia,West Galbeed,Kalabaydh Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.6713,43.4762
+Somalia,West Galbeed,Laaya Health Post,Health Post,,9.5007,43.588
+Somalia,West Galbeed,Lafa-Rug Health Post,Health Post,MoHL,10.1455,45.1201
+Somalia,West Galbeed,Laso-Dacawo Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.0514,44.9841
+Somalia,West Galbeed,Mandhera Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.8999,44.7114
+Somalia,West Galbeed,Max'D Axmed Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL/NGO,9.5596,44.0667
+Somalia,West Galbeed,Mohamed Moge Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5596,44.0667
+Somalia,West Galbeed,North Hargeisa Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,0,0
+Somalia,West Galbeed,Qool Buulale Health Post,Health Post,MoHL,8.8733,44.4007
+Somalia,West Galbeed,Sahardid Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5576,44.0672
+Somalia,West Galbeed,Salahley Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.0269,44.2023
+Somalia,West Galbeed,Sayla Bari Health Post,Health Post,MoHL,9.1736,44.1703
+Somalia,West Galbeed,Sheikh Maternal & Child Health Centre,Maternal & Child Health Centre,NGO,10.435,45.0059
+Somalia,West Galbeed,Sheikh Nur Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.5598,44.0668
+Somalia,West Galbeed,Taysa Health Post,Health Post,,9.5674,43.6726
+Somalia,West Galbeed,Tog-Wajale Maternal & Child Health Centre,Maternal & Child Health Centre,MoHL,9.6024,43.3363
+Somalia,West Galbeed,Xidhinta Health Post,Health Post,,9.5463,43.732
+Somalia,West Galbeed,Xoorey Health Post,Health Post,MoHL,9.6768,43.6224
